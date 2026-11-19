@@ -29,7 +29,7 @@ export default function Footer() {
               GramSeva Civic Portal
             </h4>
             <p style={{ color: '#94a3b8', fontSize: '0.85rem', lineHeight: '1.5' }}>
-              Official digital grievance reporting and Panchayat / Municipality management system under GramSeva Initiative by MNNIT, Allahabad.
+              Official digital grievance reporting and Panchayat / Municipality management system under GramSeva .
             </p>
           </div>
 
@@ -47,7 +47,7 @@ export default function Footer() {
                 <Mail size={16} color="#38bdf8" /> <strong>Email Support:</strong> GramSevamnnit@gmail.com
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                <Phone size={16} color="#34d399" /> <strong>Toll-Free Helpline:</strong> +91-8391842765 / +91-7880852459
+                <Phone size={16} color="#34d399" /> <strong>Toll-Free Helpline:</strong> +91-8955964010 / +91-7880852459
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                 <MapPin size={16} color="#fbbf24" /> Department of Rural & Local Governance, Block Bhavan
@@ -80,8 +80,8 @@ export default function Footer() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
             <NICLogoSVG />
             <div>
-              <div>Website content is owned & managed by <strong>Neeraj Sharma & Subrata Ghosh</strong>, MNNIT ALLAHABAD.</div>
-              <div style={{ fontSize: '0.78rem', color: '#64748b' }}>Site is designed, developed, hosted & maintained by <strong style={{ color: '#fde047' }}>Neeraj Sharma & Subrata Ghosh</strong>.</div>
+              <div>Website content is owned & managed by <strong>Udit Sharma & Subrata Ghosh</strong>.</div>
+              <div style={{ fontSize: '0.78rem', color: '#64748b' }}>Site is designed, developed, hosted & maintained by <strong style={{ color: '#fde047' }}>Udit Sharma & Subrata Ghosh</strong>.</div>
             </div>
           </div>
 
